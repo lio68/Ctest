@@ -2,7 +2,7 @@
 
       int main() {
 
-         //int n = 0;
+        
 
            setvbuf(stdout, NULL, _IONBF, 0);
          
