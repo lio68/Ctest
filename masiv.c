@@ -2,9 +2,9 @@
 
  int main () {
       
-	  int k[6]={34,67,87,24};	  
+	  int k[7]={34,67,87,24,75};	  
 
-	      for (int i=0;i<6;i++) {
+	      for (int i=0;i<7;i++) {
 
                 printf("k[%d]=%d\n",i,k[i]);
 
