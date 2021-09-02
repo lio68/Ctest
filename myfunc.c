@@ -9,6 +9,8 @@ void MyFuncN1()
 void MyFuncN2()
 {
   printf ("Hello from MyFuncN2!\n");
+
+  MyFuncN1();
 }
 //-----------------------------------
 int main() {
