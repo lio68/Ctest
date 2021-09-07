@@ -7,11 +7,11 @@
 
 		int n;
 
-		printf("Input dec number n\n");
+	//	printf("Input dec number n\n");
 
 		scanf("%d",&n);
 
-    printf("%s%X","Number hex =  ",n);
+    printf("%s%X"," number hex =  \n",n);
 
 
 
